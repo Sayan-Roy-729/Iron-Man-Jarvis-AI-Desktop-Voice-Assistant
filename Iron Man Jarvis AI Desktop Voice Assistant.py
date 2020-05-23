@@ -109,3 +109,5 @@ if __name__ == "__main__":
             except Exception as e:
                 print(e)
                 speak("Sorry my friend sayan. I am not able to send this email")
+        elif 'quite' in query:
+            exit()
