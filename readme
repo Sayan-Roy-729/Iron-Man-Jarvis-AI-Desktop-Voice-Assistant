@@ -1,0 +1,18 @@
+This is an application based on Python Programming Language. It is like a AI based application because of it takes voice input to do certain jobs.
+
+ Features: 
+  1. When user runs these piece of codes, firstly it welcomes the user by speaking "Good Morning" or "Good  Evening" or "Good Afternoon" as the local time and also speaks  "I am Jarvis Sir. Please tell me how may I help you...............".
+  
+  2. After speaking that, it listening voices of the user and detecting that. If it can detect "wikipedia" from the user voice, it searchs from wikipedia of that content that user want to search and speak 2 sentences from that.
+  
+  3. User can open Google or YouTube or stackoverflow only by saying these commands respectively "open google"or "open youtube" or "open stackoverflow". 
+  
+  4. Either user can play music only by saying the command "play music". For this, firstly user has to set the path of the music directory of the musics that user want to listen.
+  
+  5. My editing software is VS Code. So I can open this application only by saying "open code". In this part, I set my VS Code location as path. If you want to run this, firstly you have to set the path of your editor in the code and command it. 
+  
+  6. If you want to know the current time, then it can help you. Only say "the time". 
+  
+  7. You can also send email from this. I set it as a command "email to sayan". After saying this, it speaks "What should I say?". Then I have to say the content and then it send the email to that particular email address. If sending email is successful then it speaks "Email has been sent!" otherwise it speaks "Sorry my friend sayan. I am not able to send this email". You can change this code according to you. 
+  
+  8. If you want to quite this application, then you have to say "quite".
