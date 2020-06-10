@@ -16,3 +16,15 @@ This is an application based on Python Programming Language. It is like a AI bas
   7. You can also send email from this. I set it as a command "email to sayan". After saying this, it speaks "What should I say?". Then I have to say the content and then it send the email to that particular email address. If sending email is successful then it speaks "Email has been sent!" otherwise it speaks "Sorry my friend sayan. I am not able to send this email". You can change this code according to you. 
   
   8. If you want to quite this application, then you have to say "quite".
+  
+  
+  Disadvantages:
+    1. For this application, internet connection is required. If there is no internet connection, so it will not work.
+    
+    2. If the internet connectivity speed is slow, then there will be problems to detect the voice commands and it does not work properly. 
+    
+    3. Sometimes there will be issue for this to detect the voice command though the internet connectivity speed is high. 
+    
+    4. If there are noises around you, then there also will be issue to work properly. In this case, most of time, you have to shout to give the voice command.
+    
+    5. For email, there will be required the password. So if this is visible to others then it will be harmful.
